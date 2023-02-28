@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+
+  button{
+    border: 2px solid black;
+    margin-top: 3rem;
+    margin-left: -10rem;
+  }
